@@ -10,7 +10,7 @@ Run the game using a Racket IDE. (There might be a need to click on the game's w
 
 ### Game Rules
 1. Get the not-so-snake &#9898; to eat the grapes &#127815;.
-2. Every time a &#127815; is eaten, the not-so-snake's &#9898; speed increments linearly.
+2. Every time a &#127815; is eaten, the not-so-snake's &#9898; speed increases.
 3. The game ends when the not-so-snake &#9898; collides with any of the four walls (top, right, bottom, left). 
 
 ### How to Play the Game
